@@ -6,7 +6,7 @@ remember make it simple and fun, 30 min map, have data set, and pick a data type
 
 2. Bees: https://www.buzzaboutbees.net/types-of-bees.html https://bees4life.org/blog/beekeeping/8-honey-bee-species 
 
-3. Airbnb Florence Maps 
+3. Airbnb Florence Maps (using prague example https://iprpraha.cz/assets/files/files/1c3e36db2f5a811fbdcef3e6c7119786.pdf )
 
 4. ICEYE sar data
 
@@ -16,7 +16,7 @@ remember make it simple and fun, 30 min map, have data set, and pick a data type
 
 7. Deep Sea Cable Routes  https://www.submarinecablemap.com/ 
 
-8. 
+8. energy retrofit homes UK https://www.ukgbc.org/interactive-policy-map/ for ACEEE or https://www.aceee.org/topic/agriculture-and-rural-communities 
 
 9. wine of the world vivino https://www.vivino.com/explore?e=eJzLLbI11rNQy83MszVXy02ssDU2UEuutPUMUUu2dQ0NUiuwNVRLT7MtSyzKTC1JzFHLL0qxTUktTlbLT6q0TcksTs4vzSuJL0gtSk7NK1ErL4mOBWoAU8ZAc4qBdGYJAHE8Ih4%3D 
 
@@ -30,7 +30,7 @@ remember make it simple and fun, 30 min map, have data set, and pick a data type
 
 14. regrid https://regrid.com/ 
 
-15. Panettone Italy Map
+15. 
 
 16. Frisco Regional Planning - bus train parking 
 
