@@ -1,6 +1,10 @@
+![image](https://user-images.githubusercontent.com/5897823/198991242-51517e61-c3c4-4492-9d97-ff0417d611ea.png)
+
+
 # map_november
 repo for all the maps for map november
 remember make it simple and fun, 30 min map, have data set, and pick a data type to care about, display it in a nice way, data point versus space or time
+they can all be a starting point, you can always make them better, don't need to share them, but why not? MVP 
 
 1. Trains of Europe
 
